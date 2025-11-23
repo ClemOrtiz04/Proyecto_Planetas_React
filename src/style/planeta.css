@@ -1,0 +1,23 @@
+body { 
+    background-color: #0b0c10; color: #fff; 
+}
+
+.card-planeta img{
+    height: 200px;
+}
+
+.card-planeta div p {
+    color:white;
+    text-align: center;
+}
+
+.card-planeta div {
+    display: grid;
+    
+}
+
+h5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

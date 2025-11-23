@@ -1,0 +1,28 @@
+body { 
+    background-color: #0b0c10; color: #fff; 
+}
+
+footer { 
+    background-color: #111; color: #aaa; 
+}
+
+.imagenes-carrusel {
+    max-height: 85vh;
+}
+
+.parrafo {
+    color: white;
+}
+
+.h5 {
+    color: white;
+}
+
+.cards-espacio div img {
+    height: 300px;
+    border-radius: 5px;
+}
+
+.cards-espacio div {
+    padding: 3%;
+}
